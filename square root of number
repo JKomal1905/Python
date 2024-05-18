@@ -1,0 +1,7 @@
+# n=int(input("enter a number"))
+import math
+n=int(input("enter a number"))
+# sr=math.sqrt(n)
+sr=n** 0.5
+print(math.sqrt(n))
+# print(math.sqrt(9))

@@ -1,0 +1,34 @@
+from array import *
+a1=array('i',[29,30,40,500])
+# print(a1 .buffer_info())
+# print(a1.typecode)
+a1.append(23)
+# print(a1.reverse())
+# print(a1[1])
+# for i in range(5):
+#     print(a1[i])
+# newarr=array(a1.typecode,(i for i in a1))
+# print(newarr)
+# for i in range(5):
+#     # print(i*i)
+#    print(i**0.5)
+# i=0
+# while i <len(newarr):
+#     print(newarr[i])
+#     i=i+1
+
+arr=array('i',[])
+n=int(input("enter the length of array"))
+for i in range(n):
+    x=int(input("enter the next element"))
+    arr.append(x)
+print(arr)    
+ele=int(input("enter the element to be search"))
+# i=0
+# for e in arr:
+#     if e==ele:
+#         print(i)
+#         break
+#     i+=1
+print(arr.index(ele))
+    

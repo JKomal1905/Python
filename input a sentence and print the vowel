@@ -1,0 +1,23 @@
+# sen=input("write sentence:") 
+# flag=0
+# l=["a","e","i","o","u","A","E","I","O","U"]
+# for i in sen:
+#     if(i in l):
+#         flag=1
+#         break
+#     print("vowel is present")
+#     # print(i in sen is" ")
+# else:
+#     print("vowel is not present")
+
+    
+
+sen=input("write sentence:") 
+flag=0
+l=["a","e","i","o","u","A","E","I","O","U"]
+for i in sen:
+    if(i in l):
+        print(i,"")
+
+    
+

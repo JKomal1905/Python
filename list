@@ -1,0 +1,82 @@
+# 
+# import keyword
+# print(keyword.kwlist)    nmv 
+# decimal=15
+# print(bin(decimal))
+# oct= 156
+# print(bin(oct))
+# decimal=50
+# print(bin(decimal))
+# # decimal=100
+# # print(hex(decimal))
+# a=90
+# print(type(a))
+# ab="AB"
+# # print(type(ab))
+# # a=0.5
+# # print(type(a))
+# # abcd=9088.7
+# # print(type(abcd))
+# c=50+60j
+# print(type(c))
+# a=True
+# print(type(a))
+# a=6
+# b=9
+# r=a>b
+# print(r)
+# msg="welcome to the python"
+# print(msg)
+# name="my name is komal jaiswal"
+# print(name)
+# m="welcome to the 'python' progtramming"
+# print(m)
+# m="welcome tyo the "python" programming"
+# print(m)
+# import string
+
+
+# name="komal"
+# print(name[3])
+# print(name[0])
+# print(name[-1])
+# print(name[-4])
+# # accessing elements of a string
+# w="asfdghjkllbjsxhsxjks"
+# print(w[2])
+# print(w[-9])
+
+x="welcome to python"
+# print(x[11:2:-1])
+# print(x[3:15:2])
+# print(x[::])
+# print(x[::2])
+# print(x[-15:-13:-1])
+# print(x[5000:2:-1])
+# print(x[-6::])
+# print(x[-4:-1:])
+# print(x[2:9])
+# print(x[::-1])
+# print(x[-2:-12:])
+# a=int(5.5)
+# print(a)
+# a=float(7)
+# print(a)
+# a=int("A")
+# print(a)
+# a="89"
+# print(a)
+# a=int(5+6j)
+# print(a)
+
+# bytedata abd bytearray
+
+# a=[1,2,3,4,5,6]
+# b=bytearray(a)
+# # print(b[5])
+# # print(b[-4])
+# b[4]=8
+# for i in b:
+#     print (b)
+
+

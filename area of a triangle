@@ -1,0 +1,4 @@
+b=int(input("enter a number"))
+h=int(input("entter a number"))
+area=0.5*b*h
+print(area )
