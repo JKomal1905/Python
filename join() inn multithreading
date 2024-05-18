@@ -1,0 +1,31 @@
+from threading import*
+import time
+# def fun1():
+#     for i in range(5):
+#         print('surendra')
+# t1=Thread(target=fun1)
+# t1.start()
+# t1.join()
+# for i in range(5):
+#     print('priyanka')
+
+def fun1():
+    time.sleep(2)
+    for i in range(5):
+        print('surendra')
+def fun2():
+    t1.join(3)
+
+    for i in range(5):
+        print('priyanka')
+def fun3():
+    for i in range(5):
+        print('rahul')
+t1=Thread(target=fun1)
+t2=Thread(target=fun2)
+t3=Thread(target=fun3)
+
+t1.start()
+t2.start()
+t3.start()
+

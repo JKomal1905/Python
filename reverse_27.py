@@ -1,0 +1,22 @@
+# l=[2,1,4,3,6,8,5]
+# l.sort(reverse=True)
+# print(l)
+# l=[2,4,5,7,6,8,9,10]
+# l.sort(reverse=True)
+# print(l)
+# a=[13,4,233,156,78,97,0]
+# a.sort(reverse=True)
+# print(a)
+# a=[1,23,4,57,59,80]
+# a.sort(reverse=True)
+# print(a)
+# decending order 
+# A=['KOMAL','KAJAL','KAUSHAL']
+# A.sort(reverse=True)
+# print(A)
+# l=['komal','surendra','priyanka']
+# l.sort()
+# print(l)
+# l=['komal','surndra','sara',1,2,3,4,5]
+# l.sort()
+# print(l)
